@@ -1,0 +1,50 @@
+.homepage {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #995404e5;
+}
+
+.title-home {
+    text-align: center;
+    font-size: 50px;
+    color: lightgoldenrodyellow;
+}
+
+#index {
+    color: #99530400;
+    font-size: 25px;
+    margin-left: 780px;
+}
+
+.home-yakisoba {
+    background-color: black;
+    color: rgb(243, 242, 242);
+}
+
+.img-yakisoba,
+.img-taco,
+.img-lasanha {
+    margin-left: 750px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);;
+}
+
+.img-yakisoba {
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);;
+}
+
+.title {
+    font-size: 50px;
+    text-align: center;
+}
+
+.initial-page {
+    margin-left: 900px;
+}
+
+.home-taco {
+    background-color: darksalmon;
+}
+
+.home-lasanha {
+    background-color: darkkhaki;
+}
